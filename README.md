@@ -1,5 +1,5 @@
 # CMPS-470
 
-# Team $28 Pencil
+## Team $28 Pencil
 
-# Max Cole and David Shockley
+## Max Cole and David Shockley
